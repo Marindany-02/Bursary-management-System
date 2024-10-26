@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "applicant"
+		},
+		{
+			"path": "applicant/verify"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "data"
+		},
+		{
+			"path": "database"
+		},
+		{
+			"path": "db"
+		},
+		{
+			"path": "dist"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "temp"
+		},
+		{
+			"path": "vendor"
+		}
+	],
+	"settings": {}
+}

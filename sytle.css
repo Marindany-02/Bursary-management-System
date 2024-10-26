@@ -1,0 +1,128 @@
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: hwb(201 49% 16%);
+}
+
+h3{
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin: 10px 0;
+}
+
+.input{
+    width: 300px;
+    
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.container{
+    max-width: 800px;
+    height: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: hwb(181 0% 0%);
+}
+
+#submit{
+    background-color: #007BFF;
+                color: #FFF;
+                padding: 10px 20px;
+                border: none;
+                height: 60px;
+                border-radius: 3px;
+                cursor: pointer;
+               align-items: center;
+               font-size: 40px;
+               text-decoration: none;
+}
+
+.form{
+    width: 400px;
+    height: 500px;
+    background: linear-gradient(to top, rgb(0,0,0,0.8)50%,rgb(0,0,0,0.8)50%);
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    border-radius: 10px;
+    padding: 25px;
+
+}   
+.form h2{
+   width: 350px;
+   font-family: sans-serif;
+   text-align: center;
+   color: orange;
+   font-size: 35px;
+   background-color: white;
+   border-radius: 10px;
+   margin: 2px;
+   margin-left: 10px;
+   padding: 8px;
+   
+
+}
+.form input{
+   width: 400px;
+   height: 40px;
+   background: transparent;
+   border-bottom: 1px solid red;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   color: white;
+   font-size: 15px;
+   letter-spacing: 1px;
+   margin-top: 1px;
+   font-family: sans-serif;
+
+}
+.form input:focus{
+   outline: none;
+}
+::placeholder{
+   color: white;
+   font-family: Arial;
+}
+.form .link{
+   font-family: Arial;
+   font-size: 30px;
+   padding-top: 20px;
+   text-align: center;
+   color: white;
+
+}
+.form .link a{
+   text-decoration: none;
+   color: orange;
+}
+.link{
+   padding-top: 15px;
+   padding-bottom: 10px;
+   text-align: center;
+
+}
+.icons a{
+   text-decoration: none;
+   color: white;
+
+}
+.icon ion-icon{
+   color: white;
+   font-size: 30px;
+   padding-left: 30px;
+   padding-top: 5px;
+   transition: 0.3s ease;
+}
+.icon ion-icon:hover{
+   color: orange;
+}
