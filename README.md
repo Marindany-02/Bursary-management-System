@@ -1,6 +1,3 @@
-The **Bursary Management System** I helped you create earlier is a web-based application designed to simplify the administration of bursary allocation processes. Below is a detailed summary of its features and capabilities:
-
----
 
 ### **System Summary**
 The Bursary Management System aims to automate the bursary application, review, and approval processes while providing transparency, efficiency, and a user-friendly experience for both applicants and administrators.
