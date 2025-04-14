@@ -13,7 +13,7 @@ This system highlights my skills in:
 - **Building dashboards for data visibility**
 - **Scalable, user-friendly platforms for social good**
 
-It directly supports **digital transformation** goals and **efficient resource allocation**, key components in public health and education systems — resonating with CEMA's mission of using data to support better decision-making.
+It directly supports **digital transformation** goals and **efficient resource allocation**, key components in public health and education systems —  mission of using data to support better decision-making.
 
 ---
 
