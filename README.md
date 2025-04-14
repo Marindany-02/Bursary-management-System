@@ -1,62 +1,119 @@
+# 🎓 Bursary Management System — Software Engineering Project
 
-### **System Summary**
-The Bursary Management System aims to automate the bursary application, review, and approval processes while providing transparency, efficiency, and a user-friendly experience for both applicants and administrators.
-
----
-
-### **Key Features**
-
-1. **User Registration and Authentication**:
-   - Secure user registration for applicants and administrators.
-   - Login functionality with role-based access (admin and applicant).
-
-2. **Applicant Features**:
-   - Submission of bursary applications via a web form.
-   - Ability to upload supporting documents, such as identification and proof of need.
-   - Real-time updates on the status of their application (e.g., pending, approved, rejected).
-
-3. **Admin Panel**:
-   - View and manage all bursary applications.
-   - Approve or reject applications based on criteria.
-   - Generate and download reports for stakeholders.
-   - Dashboard widgets summarizing statistics like total applications, pending reviews, and disbursed funds.
-
-4. **Bursary Allocation**:
-   - Define eligibility criteria for bursaries.
-   - Automated or manual fund allocation for approved applicants.
-
-5. **Notifications**:
-   - Email or SMS notifications to applicants about the status of their application.
-
-6. **Data Storage and Reporting**:
-   - All applicant and bursary details stored securely in a database.
-   - Exportable reports for auditing and record-keeping.
+A PHP & MySQL-based web application that automates the **bursary application and approval workflow**. Designed to improve transparency, scalability, and data-driven decision-making — particularly for public institutions.
 
 ---
 
-### **Technical Details**
+## 💡 Project Relevance to Software Engineering Internship (CEMA)
 
-- **Frontend**: 
-   - Built with HTML, CSS, and Bootstrap for a responsive and user-friendly interface.
-  
-- **Backend**:
-   - PHP for server-side processing and business logic.
+This system highlights my skills in:
+- **Full-stack web development** (PHP, HTML/CSS, MySQL)
+- **Backend logic and data modeling**
+- **Authentication & access control**
+- **Building dashboards for data visibility**
+- **Scalable, user-friendly platforms for social good**
 
-- **Database**:
-   - MySQL to store user data, application details, and bursary records.
-
-- **Integration**:
-   - Email or SMS APIs for notifications.
-   - File upload functionality for documents like academic certificates and IDs.
+It directly supports **digital transformation** goals and **efficient resource allocation**, key components in public health and education systems — resonating with CEMA's mission of using data to support better decision-making.
 
 ---
 
-### **Advantages**
-1. **Efficiency**: Reduces the manual workload of processing applications.
-2. **Transparency**: Keeps a clear record of decisions and allocations.
-3. **Accessibility**: Applicants can submit applications online, anytime, from anywhere.
-4. **Scalability**: Easily expandable to support more users and features in the future.
+## 🚀 System Overview
+
+The **Bursary Management System** simplifies the bursary lifecycle — from online application to decision, allocation, and reporting — using a secure, cloud-deployable stack.
 
 ---
 
-This system was tailored to provide a streamlined workflow for bursary administrators and applicants, ensuring equitable and efficient management of educational funding. If there are new functionalities or updates you’d like to implement, feel free to let me know!
+## 🧩 Key Features
+
+### 👥 Role-Based Authentication
+- Secure login for **Admins** and **Applicants**
+- Role-based access to features
+- Sessions and hashed passwords
+
+### 🧑‍🎓 Applicant Portal
+- Online bursary application form
+- Upload required documents (ID, transcripts)
+- Real-time status tracking: Pending, Approved, Rejected
+- Email notifications on application status
+
+### 🧑‍💼 Admin Dashboard
+- Review & approve/reject applications
+- Define allocation criteria
+- Generate reports (e.g., total approved, pending)
+- Download data (CSV, PDF)
+- Data visualizations: pie charts, totals, statistics
+
+### 📊 Data & Analytics
+- Structured storage using MySQL
+- Reporting by time period, location, or applicant type
+- Easy-to-query database schema
+- Export-ready for public or stakeholder review
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer         | Technology                     |
+|---------------|--------------------------------|
+| **Frontend**   | HTML, CSS, Bootstrap           |
+| **Backend**    | PHP (Procedural + OOP)         |
+| **Database**   | MySQL                          |
+| **Deployment** | XAMPP (local), ready for cloud |
+| **Tools**      | Git, GitHub, phpMyAdmin        |
+
+---
+
+## 🔐 Sample Login Credentials
+
+| Role      | email                | Password   |
+|-----------|----------------------|------------|
+| Admin     | edward1@gmail.com    | bit/0652/2020|
+| Applicant | caren@gmail.com      |12345678|
+
+> ⚠️ You may modify credentials in the `users` table in MySQL.
+
+---
+
+## ✅ Project Outcomes
+
+- ⏱ **Time saved** on manual processing and paperwork
+- 📊 **Better visibility** of fund distribution
+- 🔐 **Secure platform** for sensitive applicant data
+- 🌍 **Accessibility** for remote or rural applicants
+- 📦 **Scalable design** for county or national-level use
+
+---
+
+## 🔧 Sample Dashboard Snapshot
+
+> Displays:
+- Total applications
+- Approved/Rejected statistics
+- Funds allocated
+- Pie chart visualization (applicants by county, gender, etc.)
+
+---
+
+## 📈 Future Enhancements
+
+- SMS Gateway integration (Twilio/Africa’s Talking)
+- Analytics by region, gender, school
+- User feedback & appeals workflow
+- Role: Reviewer or Education Officer
+- REST API for integration with government portals
+
+---
+
+## 👨‍💻 Developer
+
+**Hillary Kipngeno Marindany**  
+Software Engineering Intern Applicant – CEMA, University of Nairobi  
+- 🔗 GitHub: [Marindany-02](https://github.com/Marindany-02)  
+- 🌐 Portfolio: [Coming Soon]  
+- 💬 Email: hillarymarindany53@gmail.com
+
+---
+
+> 📍 *This system reflects my commitment to solving real-world problems using code — especially in the public sector. I’m excited to apply my skills to data-driven projects in healthcare, policy, and digital transformation.*
+
+
