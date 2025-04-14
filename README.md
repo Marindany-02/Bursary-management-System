@@ -4,7 +4,7 @@ A PHP & MySQL-based web application that automates the **bursary application and
 
 ---
 
-## 💡 Project Relevance to Software Engineering Internship (CEMA)
+## 💡 Project Relevance to Software Engineering
 
 This system highlights my skills in:
 - **Full-stack web development** (PHP, HTML/CSS, MySQL)
